@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: Bebas;
-    src: url(fontes/BebasNeue-Regular.ttf) format(truetype);
+    src: url(fontes/BebasNeue-Regular.otf) format(opentype);
 }
 
 :root {
